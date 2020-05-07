@@ -7,7 +7,7 @@ function FindProxyForURL(url, host) {
     "t.me",
     "telegram.me",
     "*.cobos.ml",
-    "rutracker.org"
+    "*.aliexpress.com"
   ];
 
   for (var i = 0; i < aa.length; i++) {
