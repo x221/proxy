@@ -3,6 +3,7 @@ function FindProxyForURL(url, host) {
     "rutracker.org",
     "nnmclub.to",
     "nnm-club.me",
+    "tut.by",
     "Xtelegram.org",
     "Xt.me",
     "Xtelegram.me",
