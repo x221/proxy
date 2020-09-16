@@ -8,7 +8,7 @@ function FindProxyForURL(url, host) {
     "Xt.me",
     "Xtelegram.me",
     "*.cobos.ml",
-    "*.Xaliexpress.com"
+    "*.linkedin.com"
   ];
 
   for (var i = 0; i < aa.length; i++) {
