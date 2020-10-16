@@ -6,7 +6,7 @@ function FindProxyForURL(url, host) {
     "tut.by",
     "Xtelegram.org",
     "Xt.me",
-    "Xtelegram.me",
+    "*.rbc.ru",
     "*.cobos.ml",
     "*.linkedin.com"
   ];
