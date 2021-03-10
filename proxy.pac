@@ -13,6 +13,7 @@ function FindProxyForURL(url, host) {
     "twitter.com",
     "t.co",
     "*.t.co",
+    "*.twimg.com"
   ];
 
   for (var i = 0; i < aa.length; i++) {
