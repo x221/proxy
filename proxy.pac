@@ -10,7 +10,9 @@ function FindProxyForURL(url, host) {
     "*.cobos.ml",
     "*.linkedin.com",
     "*.twitter.com",
-    "twitter.com"
+    "twitter.com",
+    "t.co",
+    "*.t.co",
   ];
 
   for (var i = 0; i < aa.length; i++) {
